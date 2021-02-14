@@ -1,4 +1,4 @@
-# Replace MP3 song title with file name, excluding number and extention  
+# Replace MP3 song title with file name, excluding number and extension  
 
 #### Usage sample  
 | Filename       | Title             | Result title|
